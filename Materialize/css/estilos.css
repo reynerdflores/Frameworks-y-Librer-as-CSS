@@ -1,0 +1,29 @@
+.header {
+	position: fixed;
+	z-index: 100;
+	min-height: 8rem;
+}
+
+.principal {
+	padding-top: 12rem;
+}
+.logo {
+	width: 100%;
+	margin-top: 0.5rem;
+}
+
+.menu {
+	margin-top: 1rem;
+}
+.social {
+	width: 80%;
+}
+.galeria {
+	width: 100%;
+}
+.autor {
+	width: 40%;
+}
+.perfil-autor {
+	padding: 10px;
+}
